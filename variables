@@ -1,5 +1,5 @@
 PADAVAN_REPO="https://gitlab.com/okmans/padavan-ng.git"
-PADAVAN_BRANCH="padavan-ng-awg-upd"
+PADAVAN_BRANCH="padavan-ng-wg-upd"
 PADAVAN_COMMIT="HEAD"
 PADAVAN_TOOLCHAIN_URL="https://gitlab.com/api/v4/projects/hadzhioglu%2Fpadavan-ng/packages/generic/toolchain/latest/toolchain.tzst"
 
